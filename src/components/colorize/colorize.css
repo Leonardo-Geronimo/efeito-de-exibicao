@@ -1,0 +1,17 @@
+.colorize {
+    background-color: lightcoral;
+    color: #fff;
+    padding: 20px;
+    max-width: 100%;
+    margin: 10px;
+    text-align: justify;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    color: #fff;
+    text-align: center;
+}
